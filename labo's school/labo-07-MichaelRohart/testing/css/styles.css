@@ -1,0 +1,54 @@
+.container {
+    background: #eee;
+    padding: 5px;
+    border-radius: 5px;
+    height: 500px;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    align-content: flex-start;
+    /* justify-content: space-between */
+    /* justify-content: space-aroound */
+    gap: 20px;
+}
+
+.item{
+    background: #f02424;
+    color: white;
+    padding: 20px;
+    font-size: 1.5rem;
+    /* margin: 5px; */
+    text-align: center;
+    border-radius: 5px;
+
+    flex-basis: 100px;
+    
+
+}
+/* 695 * 1/7 = 99.285 */ 
+.item:first-child{
+    /* flex-grow: 1; */
+    flex-shrink: 1;
+}
+
+/* 695 * 2/7 */ 
+.item:nth-child(2){
+    /* flex-grow: 2; */
+    flex-shrink: 2;
+}
+
+/* 695 * 1/7 */
+.item:nth-child(3){
+    /* flex-grow: 1; */
+    flex-shrink: 1;
+}
+
+/* 695 * 3/7 = 297,857 */
+.item:last-child{
+    /* flex-grow: 3; */
+    flex-shrink: 3;
+}

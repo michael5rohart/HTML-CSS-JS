@@ -1,0 +1,98 @@
+.container{
+    margin: 10px;
+    width: 250px;
+    height: 500px;
+    padding: 10px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+
+}
+
+body{
+    height: 100vh;
+    background-color: lightblue;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+img{
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+    
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 15px;
+}
+button{
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    margin: 5px;
+    padding: 3px;
+
+}
+
+button:hover{
+    color: blueviolet;
+    background-color: beige;
+    border-color: beige;
+}
+
+#username{
+    
+    width: 200px;
+    height: 22px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 5px;
+    
+}
+
+#password{
+    width: 200px;
+    height: 22px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 5px;
+}
+input:valid{
+    background-color: green;
+}
+
+input:invalid{
+    background-color: red;
+}
+input:required{
+    border-color: yellow ;
+    border-width: 20px;
+    border-style: solid;
+}
+:placeholder-shown{
+    color: rgba(255, 255, 255, 0.452);
+}

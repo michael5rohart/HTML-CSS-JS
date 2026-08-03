@@ -1,0 +1,1 @@
+Bouw het bijgevoegde digitaal visitekaartje na. Gebruik `position: relative` om de afbeelding over de bovenste rand te duwen. Achteraf duw je je naam, titel en e-mailadres ook op dezelfde manier wat mee omhoog zodat alles mooi uitgelijnd is.

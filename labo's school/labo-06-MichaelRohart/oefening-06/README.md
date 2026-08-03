@@ -1,0 +1,1 @@
+Vervolgens is het jouw taak om de volgorde van de drie lagen om te keren (dus: bovenaan komt laag 1, in het midden laag 2, en onderaan laag 3) **zonder dat je de volgorde van de HTML of CSS aanpast**. Gebruik hiervoor de CSS property `z-index.`

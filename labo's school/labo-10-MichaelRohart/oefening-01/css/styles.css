@@ -1,0 +1,33 @@
+.box{
+    height: 150px;
+    width: 300px;
+    background-color: cadetblue;
+    
+    
+}
+body{
+    height: 100vh;
+    
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+@keyframes wider{
+    0%{
+        width: 300px;
+    }
+
+    100%{
+        width: 600px;
+    }
+}
+
+.box{
+    animation-name:wider;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    
+
+}

@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+
+}
+
+h1, h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-size: 2.5rem;
+    padding: 30px;
+
+}
+
+nav{
+    text-decoration: underline;
+    background-color: red;
+    padding: 30px;
+    color: white;
+
+}
+
+h2{
+    font-weight: bold;
+    padding: 10px;
+}
+
+section{
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+h3, h4{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+h4{
+    font-size: 0.9rem;
+}
+
+footer{
+    padding: 20px;
+    border: 2rem;
+    margin: 5px;
+    background-color: lightgrey;
+    font-size: 0.7rem;
+    border: 3px;
+    border-style: dashed;
+}
+
+h4, h3, li::first-letter {
+    text-transform: uppercase;
+    
+}

@@ -1,0 +1,56 @@
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+nav ul{
+    color: grey;
+
+    display: flex;
+    list-style: none;
+    gap:10px;
+    padding: 10px;
+    flex-basis: auto;
+    flex-direction: row;
+    justify-content: end;
+}    
+
+
+main{
+    background-color: lightgrey;
+    background-image: url(../achtergrond.webp);
+    padding: 15px;
+    display: flex;
+    align-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    
+
+    gap: 10px;
+    
+}
+
+.item{
+    flex-basis: 50%;
+}
+.item:nth-child(3){
+    background-color: rgba(139, 211, 146, 0.5); 
+    display: flex;
+    flex-basis: 100%;
+}
+
+.item:nth-child(3)::first-letter{
+    font-size: 200%;
+}
+
+.item:nth-child(6){
+    background-color: rgba(139, 211, 146, 0.5);
+    display: flex;
+    flex-basis: 100%; 
+}
+
+.item:nth-child(6)::first-letter{
+    font-size: 200%;
+}
+

@@ -1,0 +1,79 @@
+*{
+   font-size: 16px;
+   text-transform: uppercase; 
+   font-family: Arial, Helvetica, sans-serif;
+   background-color:  lightgray;
+   
+}
+
+h1{
+    font-size: 25px;
+    padding: 25px;
+    background-color: white;
+    color: grey;
+    margin: 15px;
+    margin-top: 50px;
+    text-transform: none;
+}
+
+p{
+    color: white;
+    padding: 5px;
+    border: 0px;
+    margin: 0px;
+    margin-left: 15px;
+}
+
+#veertien{
+    background-color: rgb(0,136,221);
+}
+
+#dertien{
+    background-color: rgb(0,149,226);
+}
+
+#twaalf{
+    background-color: rgb(0,160,230);
+}
+
+#elf{
+    background-color: rgb(48,170,233);
+}
+
+#tien{
+    background-color: rgb(84,182,237);
+}
+
+#negen{
+    background-color: rgb(114,193,240);
+}
+
+#acht{
+    background-color: rgb(140,202,242);
+}
+
+#zeven{
+    background-color: rgb(0,187,136);
+}
+
+#zes{
+    background-color: rgb(245,176,204);
+}
+#vijf{
+    background-color: rgb(246,159,192);
+}
+#vier{
+    background-color: rgb(245,140,178);
+}
+#drie{
+    background-color: rgb(244,123,166);
+}
+#twee{
+    background-color: rgb(243,106,152);
+}
+#een{
+    background-color: rgb(244,90,139);
+}
+#nul{
+    background-color: rgb(238,62,128);
+}
