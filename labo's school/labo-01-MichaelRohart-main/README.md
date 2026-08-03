@@ -1,0 +1,5 @@
+- Zorg dat Visual Studio Code en alle nodige extensies zijn geïnstalleerd.
+- Zet volgende oefeningen om naar kwalitatieve HTML.
+- Zet de naam van de oefening telkens in de `title` van je pagina.
+- Volg de gegeven bestandenstructuur.
+- Controleer telkens je oefening met de Live server extensie.

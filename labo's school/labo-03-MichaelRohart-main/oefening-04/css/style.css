@@ -1,0 +1,27 @@
+body {
+    font-size: 14px;
+
+}
+
+h1{
+    font-family: Verdana;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: brown;
+}
+
+img{
+    width: 250px;   
+}
+
+figcaption{
+    font-style: italic;
+    font-size: 11px;
+
+}
+h2{
+    font-size: 18px;
+    color: brown;
+    text-decoration: underline;
+}

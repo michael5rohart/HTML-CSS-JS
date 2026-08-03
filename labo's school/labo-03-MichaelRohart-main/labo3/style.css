@@ -1,0 +1,48 @@
+body{
+    font-family: arial;
+}
+
+#home {
+    background-color: aliceblue;
+}
+
+.samen{
+    background-color: aquamarine;
+}
+
+header{
+    width: 300px;
+    height: 500px;
+    background-color: cadetblue;
+    border-width: 5px;
+    border-style: groove;
+    border-color: black;
+            /* je kan dit ook kort noteren met border: 5px solid black */
+    margin-top: 10px;
+    margin: 10px 20px 10px 20px;
+            /* als je er maar 2 ingeeft dan zal het vanzelf de zelfde waarde geven voor boven onder links en rechts */
+            /* pading is tussen border en main inhoud */
+            /* box model is bij inspecteren op je website */
+    padding: 5px 2px
+            /* gebruik content box */
+            
+        }
+
+
+ /*pseudo classes = verwijzen altijd naar states  */
+nav a{
+    color: black;
+
+}
+
+nav a:hover {
+    color: orange;
+}
+
+nav a:visited{
+    color: red;
+}
+/* pseudo element = ::  */
+p::first-letter{
+    color: blue;
+}

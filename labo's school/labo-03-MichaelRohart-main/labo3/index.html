@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>labo 03 css</title>
+    <!-- eerst reset.css toevoegen -->
+     <link rel="stylesheet" href="./reset.css">
+    <!-- typ link en duid link css aan, zo kan je een apart bestand linken aan je html bestand -->
+     
+    <link rel="stylesheet" href="./style.css">
+<!-- * {voor herschalen font-size 62.5%} -->
+</head>
+<body>
+    <header>
+        <!-- css tag moet binnen de tag staan bij h p of a dus binnen de haakjes <> -->
+        <h1 style="color:blue; font-size: 40px;"> CSS Selectors</h1>
+        <nav>
+            <!-- je kan meerdere tags tegelijk maken via ul>li*3>a>/ul < -->
+            <ul>
+                <li><a href="#home">home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#contact" >contact</a></li>
+            </ul>
+        </nav>
+    </header>
+<!-- id= kan maar 1 keer gebruikt worden. een id aanspreken is met # -->
+ <!-- class= kan je vaker gebruiken op verschillende sections een class aanspreken is met een punt . -->
+  <!-- id wint van class. het zal het id laten zien. dus word overschreven! -->
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>home tekst</p>
+        </section>
+
+        <section id="about" class="samen">
+            <h2>about</h2>
+            <p>about tekst</p>
+        </section>
+
+        <section id="contact" class="samen">
+            <h2>contact</h2>
+            <p>about contact</p>
+        </section>
+    </main>
+
+    <footer>
+
+    </footer>
+    <!-- comments via Ctrl + / -->
+</body>
+</html>

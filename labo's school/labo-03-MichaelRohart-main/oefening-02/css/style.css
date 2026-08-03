@@ -1,0 +1,25 @@
+h1{
+    height: 2.4rem;
+    color: red;
+    /* vetgedrukte tekst maak je zoals hieronder */
+    font-weight: bold;
+
+}
+
+h2{
+    font-size: 1.8rem;
+    color: red;
+    font-weight: bold;
+    /* om een zin of tag te onderlijnen */
+    text-decoration: underline;
+}
+
+p{
+    font-size: 1.2rem;
+
+}
+
+img{
+    border-style: dotted;
+    border-color: red;
+}

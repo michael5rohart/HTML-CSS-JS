@@ -1,0 +1,38 @@
+*{
+    background-color: gray;
+}
+
+h1{
+    margin: 10px 10px;
+    margin-top: 40px;
+    padding: 15px;
+    background-color: lightseagreen
+;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h2{
+    margin: 15px 10px;
+    padding: 15px;
+    background-color:#E91E63;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    background-color: white;
+    color: grey;
+    margin: 15px 10px;
+    padding: 10px 10px;
+
+}
+
