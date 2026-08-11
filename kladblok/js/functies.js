@@ -25,7 +25,7 @@ let namenKamp = [["sven", "wout", "michael", "eline", "lode", "kevin"], [12000, 
 
 function namenMetPunten(){
 for(let i=0; i< namenKamp.length; i++){
-    console.log(`${i+1}`);
+    console.log(`${i}`);
     for(let j=0; j< namenKamp[i].length; j++){
         console.log(namenKamp[i][j])
     }
