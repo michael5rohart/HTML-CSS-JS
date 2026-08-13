@@ -1,0 +1,167 @@
+{
+    "NASDAQ":{
+        "fabrinet":{
+            "sector":"opto-electroniche fabricatie",
+            "marktkapitalisatie":12500000000,
+            "koers":245.50,
+            "koers-winst verhouding":24.3,
+            "dividendrendement":0.0,
+            "gemiddelde 30 dagen":240.10,
+            "gemiddelde 100 dagen":228.75,
+            "volatitliteit":1.15,
+            "omzetgroei jaar-op-jaar":12.4,
+            "schuldgraad": 0.10
+
+        },
+
+        "CDW Corporation":{
+            "sector":"It-Hardware distributie",
+            "marktkapitalisatie":22100000000,
+            "koers":198.30,
+            "koers-winst verhouding":19.8,
+            "dividendrendement":1.2,
+            "gemiddelde 30 dagen":195.40,
+            "gemiddelde 100 dagen":202.60,
+            "volatitliteit":1.05,
+            "omzetgroei jaar-op-jaar":3.1,
+            "schuldgraad": 1.4
+        },
+
+        "Copart":{
+            "sector":"online veilingen van voertuigen",
+            "marktkapitalisatie":47000000000,
+            "koers":52.10,
+            "koers-winst verhouding":32.6,
+            "dividendrendement":0.0,
+            "gemiddelde 30 dagen":51.20,
+            "gemiddelde 100 dagen":49.80,
+            "volatitliteit":0.85,
+            "omzetgroei jaar-op-jaar":9.7,
+            "schuldgraad": 0.05
+        }
+    },
+
+    "NYSE":{
+        "watsco":{
+            "sector":"Distributie airconditioning en verwarming",
+            "marktkapitalisatie":18500000000,
+            "koers":545.20,
+            "koers-winst verhouding":27.1,
+            "dividendrendement":2.3,
+            "gemiddelde 30 dagen":538.90,
+            "gemiddelde 100 dagen":520.40,
+            "volatitliteit":0.95,
+            "omzetgroei jaar-op-jaar":5.5,
+            "schuldgraad": 0.15
+        },
+
+        "roper technologies":{
+            "sector":"gediversifierde technologie en software",
+            "marktkapitalisatie":58000000000,
+            "koers":545.00,
+            "koers-winst verhouding":28.4,
+            "dividendrendement":0.6,
+            "gemiddelde 30 dagen":540.10,
+            "gemiddelde 100 dagen":530.75,
+            "volatitliteit":0.75,
+            "omzetgroei jaar-op-jaar":12.9,
+            "schuldgraad": 0.55
+        },
+
+        "Graco":{
+            "sector":"industriliele mompen en sproeisystemen",
+            "marktkapitalisatie":15000000000,
+            "koers":94.60,
+            "koers-winst verhouding":25.9,
+            "dividendrendement":1.1,
+            "gemiddelde 30 dagen":93.20,
+            "gemiddelde 100 dagen":90.10,
+            "volatitliteit":1.10,
+            "omzetgroei jaar-op-jaar":4.2,
+            "schuldgraad": 0.20
+        }
+    },
+
+    "EURONEXT":{
+        "barco":{
+            "sector":"visualisatie en beeldtechnologie",
+            "marktkapitalisatie":1200000000,
+            "koers":22.80,
+            "koers-winst verhouding":21.5,
+            "dividendrendement":1.8,
+            "gemiddelde 30 dagen":22.10,
+            "gemiddelde 100 dagen":21.40,
+            "volatitliteit":1.20,
+            "omzetgroei jaar-op-jaar":6.8,
+            "schuldgraad": 0.30
+        },
+
+        "ASM international":{
+            "sector":"halfgeleidersapparatuur",
+            "marktkapitalisatie":20000000000,
+            "koers":545.30,
+            "koers-winst verhouding":33.7,
+            "dividendrendement":0.9,
+            "gemiddelde 30 dagen":538.00,
+            "gemiddelde 100 dagen":510.20,
+            "volatitliteit":1.45,
+            "omzetgroei jaar-op-jaar":15.3,
+            "schuldgraad": 0.05
+        },
+
+        "Fragon":{
+            "sector":"farmaseutische bereidingen",
+            "marktkapitalisatie":2400000000,
+            "koers":21.40,
+            "koers-winst verhouding":26.2,
+            "dividendrendement":21.00,
+            "gemiddelde 30 dagen":20.10,
+            "gemiddelde 100 dagen":0.70,
+            "volatitliteit":0.70,
+            "omzetgroei jaar-op-jaar":8.1,
+            "schuldgraad": 0.65
+        }
+    },
+
+    "LSE":{
+        "Halma PlC":{
+            "sector":"veiligheids en gezondheidstechnologie",
+            "marktkapitalisatie":12000000000,
+            "koers":2650.00,
+            "koers-winst verhouding":30.5,
+            "dividendrendement":0.8,
+            "gemiddelde 30 dagen":2610,
+            "gemiddelde 100 dagen":2540,
+            "volatitliteit":0.80,
+            "omzetgroei jaar-op-jaar":7.6,
+            "schuldgraad": 0.25
+        },
+
+        "diploma PlC":{
+            "sector":"gespecialiseerde technische distributie",
+            "marktkapitalisatie":6500000000,
+            "koers":4200,
+            "koers-winst verhouding":34.1,
+            "dividendrendement":1.0,
+            "gemiddelde 30 dagen":4150.00,
+            "gemiddelde 100 dagen":3980.00,
+            "volatitliteit":0.90,
+            "omzetgroei jaar-op-jaar":11.2,
+            "schuldgraad": 0.35
+        },
+
+        "spirax group":{
+            "sector":"stoom en warmteneheersystemen",
+            "marktkapitalisatie":6800000000,
+            "koers":6800,
+            "koers-winst verhouding":26.8,
+            "dividendrendement":1.5,
+            "gemiddelde 30 dagen":6720,
+            "gemiddelde 100 dagen":6500,
+            "volatitliteit":0.75,
+            "omzetgroei jaar-op-jaar":5.9,
+            "schuldgraad": 0.20
+        }
+
+    }
+}

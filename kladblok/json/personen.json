@@ -1,0 +1,78 @@
+{
+  "vrienden": {
+    "svekke": {
+      "lengte": 182,
+      "penislengte": "klein ma hij heeft er wel zeer gedaan",
+      "haarkleur": "kakbruin",
+      "haarverlies": "bovengemiddeld",
+      "beroep": "iet me planken",
+      "hobby": ["lopen", "werken", "de zee zien van overal"],
+      "relatiestatus": "complex",
+      "schoenmaat": "ondermaats",
+      "kuiten": "klein"
+    },
+
+    "wout": {
+      "lengte": 23,
+      "penislengte": 25,
+      "haarkleur": "hoog venisiaans ros",
+      "haarverlies": "bena klaar",
+      "beroep": "oude mensen verdragen en tuinmateriaal verkopen",
+      "hobby": [
+        "gamen",
+        "kwakskes op mense legge",
+        "fitness",
+        "over woorden struikelen",
+        "brommer rijden"
+      ],
+      "relatiestatus": "vaker kwartaalaangifte",
+      "schoenmaat": "kindermaat",
+      "kuiten": "iniminie"
+    },
+
+    "meikel": {
+      "lengte": 184,
+      "penislengte": 7.5,
+      "haarkleur": "hoog venisiaans ros",
+      "haarverlies": "onbestaande",
+      "beroep": "ruzie maken me achterlijke en iet me choco",
+      "hobby": [
+        "mayonaise eten",
+        "lezen",
+        "schaken",
+        "vliegen vangen met voorhuid"
+      ],
+      "relatiestatus": "aan de bron",
+      "schoenmaat": "oversteekboten",
+      "kuiten": "focking reusachtig"
+    },
+
+    "clyt": {
+      "lengte": 171,
+      "penislengte": 34,
+      "haarkleur": "eikelbruin",
+      "haarverlies": "nog nen goeie bos",
+      "beroep": "foefkine me trillende of verlamde mensen",
+      "hobby": [
+        "voor deen dikke zorgen",
+        "fictie lezen haha",
+        "brommer rijden"
+      ],
+      "relatiestatus": "gelak da ik van mayonaise hou",
+      "schoenmaat": 22,
+      "kuiten": "massive"
+    },
+
+    "lode": {
+        "lengte": 176,
+        "penislengte":"klein ma nen hele schone",
+        "haarkleur": "blond",
+        "haarverlies": "vleesklak",
+        "beroep": "oude mensen hun gat afkuisen",
+        "hobby": ["ijshockey alle in een goal staan","automaten zoeken", "trommelen"],
+        "relatiestatus": "kletsnat",
+        "schoenmaat": "kindermaat",
+        "kuiten": "microscopisch klein"
+    }
+  }
+}
