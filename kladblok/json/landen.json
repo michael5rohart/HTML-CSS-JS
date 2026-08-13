@@ -1,0 +1,134 @@
+{
+    "europa":{
+        "frankrijk":{
+            "oppervlakte": 551695,
+            "populatie": 68000000,
+            "politiek systeem":"semi-presidentiele republiek",
+            "hoogste berg":"mont-blanc",
+            "hoofdstad":"parijs",
+            "grootste museum":"louvre"
+
+        },
+        "Duitsland":{
+            "oppervlakte": 357022,
+            "populatie": 84000000,
+            "politiek systeem":"federale parlementaire republiek",
+            "hoogste berg":"zugspitze",
+            "hoofdstad":"berlijn",
+            "grootste museum":"Deutsches museum"
+
+        }
+
+    },
+
+    "azie":{
+        "japan":{
+            "oppervlakte": 377975,
+            "populatie": 124000000,
+            "politiek systeem":"constitunionele monarchie",
+            "hoogste berg":"fuji",
+            "hoofdstad":"Tokio",
+            "grootste museum":"Tokio national museum"
+
+        },
+        "india":{
+            "oppervlakte": 3287263,
+            "populatie": 1440000000,
+            "politiek systeem":"federale parlementaire republiek",
+            "hoogste berg":"Kangchenjunga",
+            "hoofdstad":"new delhi",
+            "grootste museum":"indian musea kolkata"
+
+        }
+
+    },
+
+    "afrika":{
+        "egypte":{
+            "oppervlakte": 1221037,
+            "populatie": 1120000000,
+            "politiek systeem":"presidentiele republiek",
+            "hoogste berg":"mount catherine",
+            "hoofdstad":"cairo",
+            "grootste museum":"grand egytian museum"
+
+        },
+        "zuid-afrika":{
+            "oppervlakte": 1221037,
+            "populatie": 60000000,
+            "politiek systeem":"parlementaire republiek",
+            "hoogste berg":"mafadi",
+            "hoofdstad":"pretoria",
+            "grootste museum":"Iziko south afrika museum"
+
+        }
+
+    },
+
+    "noord-amerika":{
+        "verenigde staten":{
+            "oppervlakte": 9833517,
+            "populatie": 335000000,
+            "politiek systeem":"federale presidentiele republiek",
+            "hoogste berg":"denali",
+            "hoofdstad":"wachington D.C",
+            "grootste museum":"smithsonian"
+
+        },
+        "canada":{
+            "oppervlakte": 9984670,
+            "populatie": 40000000,
+            "politiek systeem":"federale parlementaire monarchie",
+            "hoogste berg":"mount logan",
+            "hoofdstad":"ottawa",
+            "grootste museum":"royal ontario museum"
+
+        }
+
+    },
+
+    "zuid-amerika":{
+        "brazilie":{
+            "oppervlakte": 8515767,
+            "populatie": 216000000,
+            "politiek systeem":"federale presidentiele republiek",
+            "hoogste berg":"Pico da Neblina",
+            "hoofdstad":"brasilia",
+            "grootste museum":"museu nacional"
+
+        },
+        "argentinie":{
+            "oppervlakte": 2780400,
+            "populatie": 46000000,
+            "politiek systeem":"federale presidentiele republiek",
+            "hoogste berg":"anconcagua",
+            "hoofdstad":"buenos aires",
+            "grootste museum":"Malba"
+
+        }
+
+    },
+
+    "oceanie":{
+        "australie":{
+            "oppervlakte": 7692024,
+            "populatie": 26000000,
+            "politiek systeem":"federale parlementaire monarchie",
+            "hoogste berg":"mount kosciuzko",
+            "hoofdstad":"canberra",
+            "grootste museum":"australian museum"
+
+        },
+        "Nieuw-zeeland":{
+            "oppervlakte": 268838,
+            "populatie": 5200000,
+            "politiek systeem":"parlementaire monarchie",
+            "hoogste berg":"aoraki",
+            "hoofdstad":"wellington",
+            "grootste museum":"Te Papa tonngarewa"
+
+        }
+
+
+    }
+}

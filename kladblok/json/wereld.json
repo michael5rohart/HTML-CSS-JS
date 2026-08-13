@@ -1,0 +1,1592 @@
+{
+    "continenten": {
+        "Afrika": {
+            "Algerije": {
+                "oppervlakte": 2381741,
+                "populatie": "45000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Tahat (3003m)",
+                "hoofdstad": "Algiers",
+                "grootste museum": "Musée national du Bardo"
+            },
+            "Angola": {
+                "oppervlakte": 1246700,
+                "populatie": "36000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Moco (2620m)",
+                "hoofdstad": "Luanda",
+                "grootste museum": "Nationaal Museum voor Antropologie"
+            },
+            "Benin": {
+                "oppervlakte": 114763,
+                "populatie": "13700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Sokbaro (658m)",
+                "hoofdstad": "Porto-Novo",
+                "grootste museum": "Musée Ethnographique de Porto-Novo"
+            },
+            "Botswana": {
+                "oppervlakte": 581730,
+                "populatie": "2650000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Tsodilo Hills (1489m)",
+                "hoofdstad": "Gaborone",
+                "grootste museum": "Nationaal Museum van Botswana"
+            },
+            "Burkina Faso": {
+                "oppervlakte": 274200,
+                "populatie": "23000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Ténakourou (749m)",
+                "hoofdstad": "Ouagadougou",
+                "grootste museum": "Nationaal Museum van Burkina Faso"
+            },
+            "Burundi": {
+                "oppervlakte": 27834,
+                "populatie": "13200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Heha (2685m)",
+                "hoofdstad": "Gitega",
+                "grootste museum": "Nationaal Museum Levend Museum Bujumbura"
+            },
+            "Kaapverdië": {
+                "oppervlakte": 4033,
+                "populatie": "600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Pico do Fogo (2829m)",
+                "hoofdstad": "Praia",
+                "grootste museum": "Museu Etnográfico da Praia"
+            },
+            "Kameroen": {
+                "oppervlakte": 475442,
+                "populatie": "28600000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Cameroon (4040m)",
+                "hoofdstad": "Yaoundé",
+                "grootste museum": "Nationaal Museum van Yaoundé"
+            },
+            "Centraal-Afrikaanse Republiek": {
+                "oppervlakte": 622984,
+                "populatie": "5700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Ngaoui (1420m)",
+                "hoofdstad": "Bangui",
+                "grootste museum": "Musée national Boganda"
+            },
+            "Tsjaad": {
+                "oppervlakte": 1284000,
+                "populatie": "18500000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Emi Koussi (3445m)",
+                "hoofdstad": "N'Djamena",
+                "grootste museum": "Nationaal Museum van Tsjaad"
+            },
+            "Comoren": {
+                "oppervlakte": 1862,
+                "populatie": "850000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Karthala (2361m)",
+                "hoofdstad": "Moroni",
+                "grootste museum": "Nationaal Museum van de Comoren"
+            },
+            "Congo-Brazzaville": {
+                "oppervlakte": 342000,
+                "populatie": "6100000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Berongou (903m)",
+                "hoofdstad": "Brazzaville",
+                "grootste museum": "Musée national du Congo"
+            },
+            "Congo-Kinshasa (DRC)": {
+                "oppervlakte": 2344858,
+                "populatie": "105000000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Margherita Peak (5109m)",
+                "hoofdstad": "Kinshasa",
+                "grootste museum": "Nationaal Museum van de DRC"
+            },
+            "Djibouti": {
+                "oppervlakte": 23200,
+                "populatie": "1100000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Moussa Ali (2028m)",
+                "hoofdstad": "Djibouti-Stad",
+                "grootste museum": "Regionaal Historisch Museum Djibouti"
+            },
+            "Egypte": {
+                "oppervlakte": 1002450,
+                "populatie": "112000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Catherine (2629m)",
+                "hoofdstad": "Caïro",
+                "grootste museum": "Grand Egyptian Museum"
+            },
+            "Equatoriaal-Guinea": {
+                "oppervlakte": 28051,
+                "populatie": "1700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Pico Basilé (3011m)",
+                "hoofdstad": "Malabo",
+                "grootste museum": "Nationaal Museum van Equatoriaal-Guinea"
+            },
+            "Eritrea": {
+                "oppervlakte": 117600,
+                "populatie": "3700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Emba Soira (3018m)",
+                "hoofdstad": "Asmara",
+                "grootste museum": "Nationaal Museum van Eritrea"
+            },
+            "Eswatini": {
+                "oppervlakte": 17364,
+                "populatie": "1200000",
+                "politiek systeem": "absolute monarchie",
+                "hoogste berg": "Emlembe (1862m)",
+                "hoofdstad": "Mbabane",
+                "grootste museum": "Swazi National Museum"
+            },
+            "Ethiopië": {
+                "oppervlakte": 1104300,
+                "populatie": "128000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Ras Dashen (4550m)",
+                "hoofdstad": "Addis Abeba",
+                "grootste museum": "Nationaal Museum van Ethiopië"
+            },
+            "Gabon": {
+                "oppervlakte": 267668,
+                "populatie": "2400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Iboundji (1575m)",
+                "hoofdstad": "Libreville",
+                "grootste museum": "Musée National des Arts et Traditions"
+            },
+            "Gambia": {
+                "oppervlakte": 11295,
+                "populatie": "2700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "onbekend hoogste punt (~53m)",
+                "hoofdstad": "Banjul",
+                "grootste museum": "Nationaal Museum van Gambia"
+            },
+            "Ghana": {
+                "oppervlakte": 238533,
+                "populatie": "34000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Afadjato (885m)",
+                "hoofdstad": "Accra",
+                "grootste museum": "Nationaal Museum van Ghana"
+            },
+            "Guinee": {
+                "oppervlakte": 245857,
+                "populatie": "14000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Nimba (1752m)",
+                "hoofdstad": "Conakry",
+                "grootste museum": "Nationaal Museum van Guinee"
+            },
+            "Guinee-Bissau": {
+                "oppervlakte": 36125,
+                "populatie": "2150000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Dongol Sigon (300m)",
+                "hoofdstad": "Bissau",
+                "grootste museum": "Nationaal Ethnografisch Museum"
+            },
+            "Ivoorkust": {
+                "oppervlakte": 322463,
+                "populatie": "29000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Nimba (1752m)",
+                "hoofdstad": "Yamoussoukro",
+                "grootste museum": "Musée des Civilisations de Côte d'Ivoire"
+            },
+            "Kenia": {
+                "oppervlakte": 580367,
+                "populatie": "56000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Kenya (5199m)",
+                "hoofdstad": "Nairobi",
+                "grootste museum": "Nairobi National Museum"
+            },
+            "Lesotho": {
+                "oppervlakte": 30355,
+                "populatie": "2300000",
+                "politiek systeem": "parlementaire monarchie",
+                "hoogste berg": "Thabana Ntlenyana (3482m)",
+                "hoofdstad": "Maseru",
+                "grootste museum": "Nationaal Museum van Lesotho"
+            },
+            "Liberia": {
+                "oppervlakte": 111369,
+                "populatie": "5400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Wuteve (1440m)",
+                "hoofdstad": "Monrovia",
+                "grootste museum": "Nationaal Museum van Liberia"
+            },
+            "Libië": {
+                "oppervlakte": 1759540,
+                "populatie": "7000000",
+                "politiek systeem": "transitieregering",
+                "hoogste berg": "Bikku Bitti (2266m)",
+                "hoofdstad": "Tripoli",
+                "grootste museum": "Jamahiriya Museum"
+            },
+            "Madagaskar": {
+                "oppervlakte": 587041,
+                "populatie": "30500000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Maromokotro (2876m)",
+                "hoofdstad": "Antananarivo",
+                "grootste museum": "Musée d'Art et d'Archéologie"
+            },
+            "Malawi": {
+                "oppervlakte": 118484,
+                "populatie": "21000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Mulanje (3002m)",
+                "hoofdstad": "Lilongwe",
+                "grootste museum": "Nationaal Museum van Malawi"
+            },
+            "Mali": {
+                "oppervlakte": 1240192,
+                "populatie": "23000000",
+                "politiek systeem": "overgangsregering",
+                "hoogste berg": "Hombori Tondo (1155m)",
+                "hoofdstad": "Bamako",
+                "grootste museum": "Nationaal Museum van Mali"
+            },
+            "Mauritanië": {
+                "oppervlakte": 1030700,
+                "populatie": "4900000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Kediet ej Jill (915m)",
+                "hoofdstad": "Nouakchott",
+                "grootste museum": "Nationaal Museum van Mauritanië"
+            },
+            "Mauritius": {
+                "oppervlakte": 2040,
+                "populatie": "1270000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Piton de la Petite Rivière Noire (828m)",
+                "hoofdstad": "Port Louis",
+                "grootste museum": "Blue Penny Museum"
+            },
+            "Marokko": {
+                "oppervlakte": 446550,
+                "populatie": "38000000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Jbel Toubkal (4167m)",
+                "hoofdstad": "Rabat",
+                "grootste museum": "Mohammed VI Museum voor Moderne Kunst"
+            },
+            "Mozambique": {
+                "oppervlakte": 801590,
+                "populatie": "33500000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Monte Binga (2436m)",
+                "hoofdstad": "Maputo",
+                "grootste museum": "Nationaal Museum van Mozambique"
+            },
+            "Namibië": {
+                "oppervlakte": 825615,
+                "populatie": "2600000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Königstein (2606m)",
+                "hoofdstad": "Windhoek",
+                "grootste museum": "Nationaal Museum van Namibië"
+            },
+            "Niger": {
+                "oppervlakte": 1267000,
+                "populatie": "27000000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Mont Idoukal-n-Taghès (2022m)",
+                "hoofdstad": "Niamey",
+                "grootste museum": "Nationaal Museum van Niger"
+            },
+            "Nigeria": {
+                "oppervlakte": 923768,
+                "populatie": "223000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Chappal Waddi (2419m)",
+                "hoofdstad": "Abuja",
+                "grootste museum": "Nationaal Museum Lagos"
+            },
+            "Rwanda": {
+                "oppervlakte": 26338,
+                "populatie": "14000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Karisimbi (4507m)",
+                "hoofdstad": "Kigali",
+                "grootste museum": "Nationaal Museum van Rwanda (Huye)"
+            },
+            "Sao Tomé en Principe": {
+                "oppervlakte": 964,
+                "populatie": "230000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Pico de São Tomé (2024m)",
+                "hoofdstad": "São Tomé",
+                "grootste museum": "Nationaal Museum van São Tomé"
+            },
+            "Senegal": {
+                "oppervlakte": 196722,
+                "populatie": "18000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Nepen Diakha (581m)",
+                "hoofdstad": "Dakar",
+                "grootste museum": "Musée des Civilisations Noires"
+            },
+            "Seychellen": {
+                "oppervlakte": 459,
+                "populatie": "100000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Morne Seychellois (905m)",
+                "hoofdstad": "Victoria",
+                "grootste museum": "Nationaal Historisch Museum"
+            },
+            "Sierra Leone": {
+                "oppervlakte": 71740,
+                "populatie": "8600000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Bintumani (1945m)",
+                "hoofdstad": "Freetown",
+                "grootste museum": "Sierra Leone National Museum"
+            },
+            "Somalië": {
+                "oppervlakte": 637657,
+                "populatie": "18000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Shimbiris (2416m)",
+                "hoofdstad": "Mogadishu",
+                "grootste museum": "Nationaal Museum van Somalië"
+            },
+            "Zuid-Afrika": {
+                "oppervlakte": 1221037,
+                "populatie": "60000000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Mafadi (3450m)",
+                "hoofdstad": "Pretoria",
+                "grootste museum": "Iziko South African Museum"
+            },
+            "Zuid-Soedan": {
+                "oppervlakte": 619745,
+                "populatie": "11000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Kinyeti (3187m)",
+                "hoofdstad": "Juba",
+                "grootste museum": "Nationaal Museum van Zuid-Soedan"
+            },
+            "Soedan": {
+                "oppervlakte": 1886068,
+                "populatie": "48000000",
+                "politiek systeem": "overgangsregering",
+                "hoogste berg": "Jebel Marra (3042m)",
+                "hoofdstad": "Khartoem",
+                "grootste museum": "Sudan National Museum"
+            },
+            "Tanzania": {
+                "oppervlakte": 947303,
+                "populatie": "67000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Kilimanjaro (5895m)",
+                "hoofdstad": "Dodoma",
+                "grootste museum": "National Museum of Tanzania"
+            },
+            "Togo": {
+                "oppervlakte": 56785,
+                "populatie": "9000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mont Agou (986m)",
+                "hoofdstad": "Lomé",
+                "grootste museum": "Nationaal Museum van Togo"
+            },
+            "Tunesië": {
+                "oppervlakte": 163610,
+                "populatie": "12300000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Jebel ech Chambi (1544m)",
+                "hoofdstad": "Tunis",
+                "grootste museum": "Bardo National Museum"
+            },
+            "Oeganda": {
+                "oppervlakte": 241038,
+                "populatie": "48000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Margherita Peak (5109m)",
+                "hoofdstad": "Kampala",
+                "grootste museum": "Oeganda National Museum"
+            },
+            "Zambia": {
+                "oppervlakte": 752618,
+                "populatie": "20500000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mafinga Central (2339m)",
+                "hoofdstad": "Lusaka",
+                "grootste museum": "Moto Moto Museum"
+            },
+            "Zimbabwe": {
+                "oppervlakte": 390757,
+                "populatie": "16300000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Nyangani (2592m)",
+                "hoofdstad": "Harare",
+                "grootste museum": "Nationaal Museum van Zimbabwe"
+            }
+        },
+        "Azië": {
+            "Afghanistan": {
+                "oppervlakte": 652230,
+                "populatie": "41000000",
+                "politiek systeem": "overgangsregering (de facto)",
+                "hoogste berg": "Noshaq (7492m)",
+                "hoofdstad": "Kabul",
+                "grootste museum": "Nationaal Museum van Afghanistan"
+            },
+            "Armenië": {
+                "oppervlakte": 29743,
+                "populatie": "2800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Aragats (4090m)",
+                "hoofdstad": "Jerevan",
+                "grootste museum": "Geschiedenismuseum van Armenië"
+            },
+            "Azerbeidzjan": {
+                "oppervlakte": 86600,
+                "populatie": "10200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Bazardüzü (4466m)",
+                "hoofdstad": "Bakoe",
+                "grootste museum": "Azerbeidzjan Nationaal Museum"
+            },
+            "Bahrein": {
+                "oppervlakte": 786,
+                "populatie": "1500000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Jabal ad Dukhan (134m)",
+                "hoofdstad": "Manama",
+                "grootste museum": "Bahrain National Museum"
+            },
+            "Bangladesh": {
+                "oppervlakte": 148460,
+                "populatie": "173000000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Saka Haphong (~1052m)",
+                "hoofdstad": "Dhaka",
+                "grootste museum": "Bangladesh National Museum"
+            },
+            "Bhutan": {
+                "oppervlakte": 38394,
+                "populatie": "780000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Gangkhar Puensum (7570m)",
+                "hoofdstad": "Thimphu",
+                "grootste museum": "National Museum of Bhutan"
+            },
+            "Brunei": {
+                "oppervlakte": 5765,
+                "populatie": "460000",
+                "politiek systeem": "absolute monarchie",
+                "hoogste berg": "Bukit Pagon (1850m)",
+                "hoofdstad": "Bandar Seri Begawan",
+                "grootste museum": "Royal Regalia Museum"
+            },
+            "Cambodja": {
+                "oppervlakte": 181035,
+                "populatie": "17000000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Phnom Aural (1810m)",
+                "hoofdstad": "Phnom Penh",
+                "grootste museum": "National Museum of Cambodia"
+            },
+            "China": {
+                "oppervlakte": 9596960,
+                "populatie": "1410000000",
+                "politiek systeem": "eenpartijstaat (socialistische republiek)",
+                "hoogste berg": "Mount Everest (8849m)",
+                "hoofdstad": "Peking",
+                "grootste museum": "National Museum of China"
+            },
+            "Cyprus": {
+                "oppervlakte": 9251,
+                "populatie": "1250000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Olympus (1952m)",
+                "hoofdstad": "Nicosia",
+                "grootste museum": "Cyprus Museum"
+            },
+            "Georgië": {
+                "oppervlakte": 69700,
+                "populatie": "3700000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Sjchara (5193m)",
+                "hoofdstad": "Tbilisi",
+                "grootste museum": "Georgian National Museum"
+            },
+            "India": {
+                "oppervlakte": 3287263,
+                "populatie": "1440000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Kangchenjunga (8586m)",
+                "hoofdstad": "New Delhi",
+                "grootste museum": "Indian Museum Kolkata"
+            },
+            "Indonesië": {
+                "oppervlakte": 1904569,
+                "populatie": "280000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Puncak Jaya (4884m)",
+                "hoofdstad": "Jakarta",
+                "grootste museum": "National Museum of Indonesia"
+            },
+            "Iran": {
+                "oppervlakte": 1648195,
+                "populatie": "89000000",
+                "politiek systeem": "islamitische republiek",
+                "hoogste berg": "Damavand (5610m)",
+                "hoofdstad": "Teheran",
+                "grootste museum": "Nationaal Museum van Iran"
+            },
+            "Irak": {
+                "oppervlakte": 438317,
+                "populatie": "45000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Cheekha Dar (3611m)",
+                "hoofdstad": "Bagdad",
+                "grootste museum": "Iraq Museum"
+            },
+            "Israël": {
+                "oppervlakte": 22072,
+                "populatie": "9800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Har Meron (1208m)",
+                "hoofdstad": "Jeruzalem",
+                "grootste museum": "Israel Museum"
+            },
+            "Japan": {
+                "oppervlakte": 377975,
+                "populatie": "124000000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Fuji (3776m)",
+                "hoofdstad": "Tokio",
+                "grootste museum": "Tokyo National Museum"
+            },
+            "Jordanië": {
+                "oppervlakte": 89342,
+                "populatie": "11500000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Jabal Umm ad Dami (1854m)",
+                "hoofdstad": "Amman",
+                "grootste museum": "Jordan Museum"
+            },
+            "Kazachstan": {
+                "oppervlakte": 2724900,
+                "populatie": "20000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Khan Tengri (7010m)",
+                "hoofdstad": "Astana",
+                "grootste museum": "Central State Museum of Kazakhstan"
+            },
+            "Koeweit": {
+                "oppervlakte": 17818,
+                "populatie": "4300000",
+                "politiek systeem": "constitutionele emiraat",
+                "hoogste berg": "onbekend hoogste punt (~306m)",
+                "hoofdstad": "Koeweit-Stad",
+                "grootste museum": "Kuwait National Museum"
+            },
+            "Kirgizië": {
+                "oppervlakte": 199951,
+                "populatie": "7000000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Jengish Chokusu (7439m)",
+                "hoofdstad": "Bisjkek",
+                "grootste museum": "Kirgizisch Nationaal Historisch Museum"
+            },
+            "Laos": {
+                "oppervlakte": 236800,
+                "populatie": "7700000",
+                "politiek systeem": "eenpartijstaat (socialistische republiek)",
+                "hoogste berg": "Phou Bia (2819m)",
+                "hoofdstad": "Vientiane",
+                "grootste museum": "Laos National Museum"
+            },
+            "Libanon": {
+                "oppervlakte": 10452,
+                "populatie": "5400000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Qurnat as Sawda (3088m)",
+                "hoofdstad": "Beiroet",
+                "grootste museum": "National Museum of Beirut"
+            },
+            "Maleisië": {
+                "oppervlakte": 330803,
+                "populatie": "34000000",
+                "politiek systeem": "federale constitutionele monarchie",
+                "hoogste berg": "Mount Kinabalu (4095m)",
+                "hoofdstad": "Kuala Lumpur",
+                "grootste museum": "National Museum of Malaysia"
+            },
+            "Malediven": {
+                "oppervlakte": 298,
+                "populatie": "520000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "onbekend hoogste punt (~5m)",
+                "hoofdstad": "Malé",
+                "grootste museum": "National Museum of Maldives"
+            },
+            "Mongolië": {
+                "oppervlakte": 1564110,
+                "populatie": "3400000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Chüiten (4374m)",
+                "hoofdstad": "Ulaanbaatar",
+                "grootste museum": "National Museum of Mongolia"
+            },
+            "Myanmar": {
+                "oppervlakte": 676578,
+                "populatie": "54000000",
+                "politiek systeem": "militaire junta (de facto)",
+                "hoogste berg": "Hkakabo Razi (5881m)",
+                "hoofdstad": "Naypyidaw",
+                "grootste museum": "National Museum of Myanmar"
+            },
+            "Nepal": {
+                "oppervlakte": 147516,
+                "populatie": "30000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Mount Everest (8849m)",
+                "hoofdstad": "Kathmandu",
+                "grootste museum": "National Museum of Nepal"
+            },
+            "Noord-Korea": {
+                "oppervlakte": 120538,
+                "populatie": "26000000",
+                "politiek systeem": "eenpartijstaat (dictatuur)",
+                "hoogste berg": "Paektu (2744m)",
+                "hoofdstad": "Pyongyang",
+                "grootste museum": "Korean Central History Museum"
+            },
+            "Oman": {
+                "oppervlakte": 309500,
+                "populatie": "4600000",
+                "politiek systeem": "absolute monarchie",
+                "hoogste berg": "Jabal Shams (3009m)",
+                "hoofdstad": "Muscat",
+                "grootste museum": "National Museum of Oman"
+            },
+            "Oezbekistan": {
+                "oppervlakte": 447400,
+                "populatie": "36000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Khazret Sultan (4643m)",
+                "hoofdstad": "Tasjkent",
+                "grootste museum": "State Museum of History of Uzbekistan"
+            },
+            "Pakistan": {
+                "oppervlakte": 881913,
+                "populatie": "241000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "K2 (8611m)",
+                "hoofdstad": "Islamabad",
+                "grootste museum": "National Museum of Pakistan"
+            },
+            "Palestina": {
+                "oppervlakte": 6020,
+                "populatie": "5400000",
+                "politiek systeem": "semi-presidentiële (deels erkend)",
+                "hoogste berg": "Mount Nabi Yunis (1030m)",
+                "hoofdstad": "Ramallah (de facto)",
+                "grootste museum": "Palestinian Museum"
+            },
+            "Filipijnen": {
+                "oppervlakte": 300000,
+                "populatie": "117000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Apo (2954m)",
+                "hoofdstad": "Manila",
+                "grootste museum": "National Museum of the Philippines"
+            },
+            "Qatar": {
+                "oppervlakte": 11586,
+                "populatie": "2700000",
+                "politiek systeem": "absolute monarchie",
+                "hoogste berg": "Qurayn Abu al Bawl (103m)",
+                "hoofdstad": "Doha",
+                "grootste museum": "National Museum of Qatar"
+            },
+            "Saoedi-Arabië": {
+                "oppervlakte": 2149690,
+                "populatie": "36000000",
+                "politiek systeem": "absolute monarchie",
+                "hoogste berg": "Jabal Sawda (3133m)",
+                "hoofdstad": "Riyad",
+                "grootste museum": "National Museum of Saudi Arabia"
+            },
+            "Singapore": {
+                "oppervlakte": 728,
+                "populatie": "5900000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Bukit Timah Hill (164m)",
+                "hoofdstad": "Singapore",
+                "grootste museum": "National Museum of Singapore"
+            },
+            "Zuid-Korea": {
+                "oppervlakte": 100210,
+                "populatie": "51700000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Hallasan (1947m)",
+                "hoofdstad": "Seoel",
+                "grootste museum": "National Museum of Korea"
+            },
+            "Sri Lanka": {
+                "oppervlakte": 65610,
+                "populatie": "22000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Pidurutalagala (2524m)",
+                "hoofdstad": "Sri Jayawardenepura Kotte",
+                "grootste museum": "National Museum of Colombo"
+            },
+            "Syrië": {
+                "oppervlakte": 185180,
+                "populatie": "23000000",
+                "politiek systeem": "overgangsregering",
+                "hoogste berg": "Mount Hermon (2814m)",
+                "hoofdstad": "Damascus",
+                "grootste museum": "National Museum of Damascus"
+            },
+            "Taiwan": {
+                "oppervlakte": 36193,
+                "populatie": "23500000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Yushan (3952m)",
+                "hoofdstad": "Taipei",
+                "grootste museum": "National Palace Museum"
+            },
+            "Tadzjikistan": {
+                "oppervlakte": 143100,
+                "populatie": "10200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Ismoil Somoni Peak (7495m)",
+                "hoofdstad": "Doesjanbe",
+                "grootste museum": "National Museum of Tajikistan"
+            },
+            "Thailand": {
+                "oppervlakte": 513120,
+                "populatie": "71000000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Doi Inthanon (2565m)",
+                "hoofdstad": "Bangkok",
+                "grootste museum": "National Museum Bangkok"
+            },
+            "Oost-Timor": {
+                "oppervlakte": 14874,
+                "populatie": "1400000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Tatamailau (2986m)",
+                "hoofdstad": "Dili",
+                "grootste museum": "Nationaal Museum van Oost-Timor"
+            },
+            "Turkije": {
+                "oppervlakte": 783562,
+                "populatie": "85500000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Ararat (5137m)",
+                "hoofdstad": "Ankara",
+                "grootste museum": "Museum of Anatolian Civilizations"
+            },
+            "Turkmenistan": {
+                "oppervlakte": 488100,
+                "populatie": "6400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Ayrybaba (3139m)",
+                "hoofdstad": "Asjchabad",
+                "grootste museum": "State Museum of Turkmenistan"
+            },
+            "Verenigde Arabische Emiraten": {
+                "oppervlakte": 83600,
+                "populatie": "9900000",
+                "politiek systeem": "federale absolute monarchie",
+                "hoogste berg": "Jebel Jais (1934m)",
+                "hoofdstad": "Abu Dhabi",
+                "grootste museum": "Louvre Abu Dhabi"
+            },
+            "Vietnam": {
+                "oppervlakte": 331212,
+                "populatie": "100000000",
+                "politiek systeem": "eenpartijstaat (socialistische republiek)",
+                "hoogste berg": "Fansipan (3147m)",
+                "hoofdstad": "Hanoi",
+                "grootste museum": "Vietnam National Museum of History"
+            },
+            "Jemen": {
+                "oppervlakte": 527968,
+                "populatie": "34000000",
+                "politiek systeem": "overgangsregering",
+                "hoogste berg": "Jabal An-Nabi Shu'ayb (3666m)",
+                "hoofdstad": "Sana'a",
+                "grootste museum": "National Museum of Yemen"
+            }
+        },
+        "Europa": {
+            "Albanië": {
+                "oppervlakte": 28748,
+                "populatie": "2800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Korab (2764m)",
+                "hoofdstad": "Tirana",
+                "grootste museum": "Nationaal Historisch Museum"
+            },
+            "Andorra": {
+                "oppervlakte": 468,
+                "populatie": "80000",
+                "politiek systeem": "parlementaire co-vorstendom",
+                "hoogste berg": "Coma Pedrosa (2942m)",
+                "hoofdstad": "Andorra la Vella",
+                "grootste museum": "Nationaal Automobielmuseum"
+            },
+            "Oostenrijk": {
+                "oppervlakte": 83879,
+                "populatie": "9100000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Grossglockner (3798m)",
+                "hoofdstad": "Wenen",
+                "grootste museum": "Kunsthistorisches Museum"
+            },
+            "Wit-Rusland": {
+                "oppervlakte": 207600,
+                "populatie": "9200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Dzyarzhynskaya Hara (346m)",
+                "hoofdstad": "Minsk",
+                "grootste museum": "Nationaal Historisch Museum van Wit-Rusland"
+            },
+            "België": {
+                "oppervlakte": 30528,
+                "populatie": "11800000",
+                "politiek systeem": "federale parlementaire monarchie",
+                "hoogste berg": "Signaal de Botrange (694m)",
+                "hoofdstad": "Brussel",
+                "grootste museum": "Koninklijke Musea voor Kunst en Geschiedenis"
+            },
+            "Bosnië en Herzegovina": {
+                "oppervlakte": 51197,
+                "populatie": "3200000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Maglić (2386m)",
+                "hoofdstad": "Sarajevo",
+                "grootste museum": "Nationaal Museum van Bosnië en Herzegovina"
+            },
+            "Bulgarije": {
+                "oppervlakte": 110879,
+                "populatie": "6800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Musala (2925m)",
+                "hoofdstad": "Sofia",
+                "grootste museum": "Nationaal Historisch Museum"
+            },
+            "Kroatië": {
+                "oppervlakte": 56594,
+                "populatie": "3900000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Dinara (1831m)",
+                "hoofdstad": "Zagreb",
+                "grootste museum": "Archeologisch Museum Zagreb"
+            },
+            "Tsjechië": {
+                "oppervlakte": 78871,
+                "populatie": "10900000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Sněžka (1603m)",
+                "hoofdstad": "Praag",
+                "grootste museum": "Nationaal Museum Praag"
+            },
+            "Denemarken": {
+                "oppervlakte": 42933,
+                "populatie": "5950000",
+                "politiek systeem": "parlementaire monarchie",
+                "hoogste berg": "Møllehøj (171m)",
+                "hoofdstad": "Kopenhagen",
+                "grootste museum": "Nationaal Museum van Denemarken"
+            },
+            "Estland": {
+                "oppervlakte": 45227,
+                "populatie": "1350000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Suur Munamägi (318m)",
+                "hoofdstad": "Tallinn",
+                "grootste museum": "Estisch Nationaal Museum"
+            },
+            "Finland": {
+                "oppervlakte": 338424,
+                "populatie": "5600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Halti (1324m)",
+                "hoofdstad": "Helsinki",
+                "grootste museum": "Ateneum Kunstmuseum"
+            },
+            "Frankrijk": {
+                "oppervlakte": 551695,
+                "populatie": "68000000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Mont Blanc (4808m)",
+                "hoofdstad": "Parijs",
+                "grootste museum": "Louvre"
+            },
+            "Duitsland": {
+                "oppervlakte": 357022,
+                "populatie": "84000000",
+                "politiek systeem": "federale parlementaire republiek",
+                "hoogste berg": "Zugspitze (2962m)",
+                "hoofdstad": "Berlijn",
+                "grootste museum": "Deutsches Museum (München)"
+            },
+            "Griekenland": {
+                "oppervlakte": 131957,
+                "populatie": "10400000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Olympus (2917m)",
+                "hoofdstad": "Athene",
+                "grootste museum": "Archeologisch Nationaal Museum Athene"
+            },
+            "Hongarije": {
+                "oppervlakte": 93028,
+                "populatie": "9600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Kékes (1014m)",
+                "hoofdstad": "Boedapest",
+                "grootste museum": "Hongaars Nationaal Museum"
+            },
+            "IJsland": {
+                "oppervlakte": 103000,
+                "populatie": "390000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Hvannadalshnúkur (2110m)",
+                "hoofdstad": "Reykjavik",
+                "grootste museum": "National Museum of Iceland"
+            },
+            "Ierland": {
+                "oppervlakte": 70273,
+                "populatie": "5100000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Carrauntoohil (1038m)",
+                "hoofdstad": "Dublin",
+                "grootste museum": "National Museum of Ireland"
+            },
+            "Italië": {
+                "oppervlakte": 301340,
+                "populatie": "59000000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Mont Blanc (4808m, deel)",
+                "hoofdstad": "Rome",
+                "grootste museum": "Vaticaanse Musea"
+            },
+            "Kosovo": {
+                "oppervlakte": 10908,
+                "populatie": "1800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Đeravica (2656m)",
+                "hoofdstad": "Pristina",
+                "grootste museum": "Kosovo Museum"
+            },
+            "Letland": {
+                "oppervlakte": 64589,
+                "populatie": "1850000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Gaiziņkalns (312m)",
+                "hoofdstad": "Riga",
+                "grootste museum": "National History Museum of Latvia"
+            },
+            "Liechtenstein": {
+                "oppervlakte": 160,
+                "populatie": "40000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Grauspitz (2599m)",
+                "hoofdstad": "Vaduz",
+                "grootste museum": "Kunstmuseum Liechtenstein"
+            },
+            "Litouwen": {
+                "oppervlakte": 65300,
+                "populatie": "2800000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Aukštojas (294m)",
+                "hoofdstad": "Vilnius",
+                "grootste museum": "Nationaal Museum van Litouwen"
+            },
+            "Luxemburg": {
+                "oppervlakte": 2586,
+                "populatie": "660000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Kneiff (560m)",
+                "hoofdstad": "Luxemburg-Stad",
+                "grootste museum": "Nationaal Museum voor Geschiedenis en Kunst"
+            },
+            "Malta": {
+                "oppervlakte": 316,
+                "populatie": "540000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Ta' Dmejrek (253m)",
+                "hoofdstad": "Valletta",
+                "grootste museum": "National Museum of Archaeology"
+            },
+            "Moldavië": {
+                "oppervlakte": 33846,
+                "populatie": "2600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Bălănești Hill (430m)",
+                "hoofdstad": "Chisinau",
+                "grootste museum": "Nationaal Museum van Geschiedenis van Moldavië"
+            },
+            "Monaco": {
+                "oppervlakte": 2,
+                "populatie": "39000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mont Agel (1148m, grensgebied)",
+                "hoofdstad": "Monaco",
+                "grootste museum": "Oceanografisch Museum"
+            },
+            "Montenegro": {
+                "oppervlakte": 13812,
+                "populatie": "620000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Zla Kolata (2534m)",
+                "hoofdstad": "Podgorica",
+                "grootste museum": "Nationaal Museum van Montenegro"
+            },
+            "Nederland": {
+                "oppervlakte": 41850,
+                "populatie": "18000000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Vaalserberg (322m)",
+                "hoofdstad": "Amsterdam",
+                "grootste museum": "Rijksmuseum"
+            },
+            "Noord-Macedonië": {
+                "oppervlakte": 25713,
+                "populatie": "1830000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Golem Korab (2764m)",
+                "hoofdstad": "Skopje",
+                "grootste museum": "Macedonisch Museum"
+            },
+            "Noorwegen": {
+                "oppervlakte": 385207,
+                "populatie": "5500000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Galdhøpiggen (2469m)",
+                "hoofdstad": "Oslo",
+                "grootste museum": "Nationaal Museum Oslo"
+            },
+            "Polen": {
+                "oppervlakte": 312696,
+                "populatie": "37600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Rysy (2499m)",
+                "hoofdstad": "Warschau",
+                "grootste museum": "Nationaal Museum Warschau"
+            },
+            "Portugal": {
+                "oppervlakte": 92212,
+                "populatie": "10300000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Ponta do Pico (2351m, Azoren)",
+                "hoofdstad": "Lissabon",
+                "grootste museum": "Museu Nacional de Arte Antiga"
+            },
+            "Roemenië": {
+                "oppervlakte": 238397,
+                "populatie": "19000000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Moldoveanu (2544m)",
+                "hoofdstad": "Boekarest",
+                "grootste museum": "Nationaal Geschiedenismuseum Roemenië"
+            },
+            "Rusland": {
+                "oppervlakte": 17098246,
+                "populatie": "144000000",
+                "politiek systeem": "federale semi-presidentiële republiek",
+                "hoogste berg": "Elbroes (5642m)",
+                "hoofdstad": "Moskou",
+                "grootste museum": "Hermitage"
+            },
+            "San Marino": {
+                "oppervlakte": 61,
+                "populatie": "34000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Monte Titano (749m)",
+                "hoofdstad": "San Marino",
+                "grootste museum": "Staatsmuseum van San Marino"
+            },
+            "Servië": {
+                "oppervlakte": 88361,
+                "populatie": "6600000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Midžor (2169m)",
+                "hoofdstad": "Belgrado",
+                "grootste museum": "Nationaal Museum Belgrado"
+            },
+            "Slowakije": {
+                "oppervlakte": 49035,
+                "populatie": "5400000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Gerlachovský štít (2655m)",
+                "hoofdstad": "Bratislava",
+                "grootste museum": "Slowaaks Nationaal Museum"
+            },
+            "Slovenië": {
+                "oppervlakte": 20273,
+                "populatie": "2100000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Triglav (2864m)",
+                "hoofdstad": "Ljubljana",
+                "grootste museum": "Nationaal Museum van Slovenië"
+            },
+            "Spanje": {
+                "oppervlakte": 505990,
+                "populatie": "48000000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Teide (3715m, Canarische Eilanden)",
+                "hoofdstad": "Madrid",
+                "grootste museum": "Museo del Prado"
+            },
+            "Zweden": {
+                "oppervlakte": 450295,
+                "populatie": "10500000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Kebnekaise (2097m)",
+                "hoofdstad": "Stockholm",
+                "grootste museum": "Nationaal Museum Zweden"
+            },
+            "Zwitserland": {
+                "oppervlakte": 41285,
+                "populatie": "8900000",
+                "politiek systeem": "federale directoriale republiek",
+                "hoogste berg": "Dufourspitze (4634m)",
+                "hoofdstad": "Bern",
+                "grootste museum": "Landesmuseum Zürich"
+            },
+            "Oekraïne": {
+                "oppervlakte": 603500,
+                "populatie": "37000000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Hoverla (2061m)",
+                "hoofdstad": "Kyiv",
+                "grootste museum": "Nationaal Historisch Museum van Oekraïne"
+            },
+            "Verenigd Koninkrijk": {
+                "oppervlakte": 243610,
+                "populatie": "68000000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Ben Nevis (1345m)",
+                "hoofdstad": "Londen",
+                "grootste museum": "British Museum"
+            },
+            "Vaticaanstad": {
+                "oppervlakte": 0.49,
+                "populatie": "800",
+                "politiek systeem": "absolute elective theocratie",
+                "hoogste berg": "geen (vlak terrein)",
+                "hoofdstad": "Vaticaanstad",
+                "grootste museum": "Vaticaanse Musea"
+            }
+        },
+        "Noord-Amerika": {
+            "Antigua en Barbuda": {
+                "oppervlakte": 442,
+                "populatie": "94000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Obama (402m)",
+                "hoofdstad": "Saint John's",
+                "grootste museum": "Museum of Antigua and Barbuda"
+            },
+            "Bahama's": {
+                "oppervlakte": 13943,
+                "populatie": "410000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Alvernia (63m)",
+                "hoofdstad": "Nassau",
+                "grootste museum": "National Art Gallery of the Bahamas"
+            },
+            "Barbados": {
+                "oppervlakte": 430,
+                "populatie": "280000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Mount Hillaby (340m)",
+                "hoofdstad": "Bridgetown",
+                "grootste museum": "Barbados Museum & Historical Society"
+            },
+            "Belize": {
+                "oppervlakte": 22966,
+                "populatie": "410000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Doyle's Delight (1124m)",
+                "hoofdstad": "Belmopan",
+                "grootste museum": "Museum of Belize"
+            },
+            "Canada": {
+                "oppervlakte": 9984670,
+                "populatie": "40000000",
+                "politiek systeem": "federale parlementaire monarchie",
+                "hoogste berg": "Mount Logan (5959m)",
+                "hoofdstad": "Ottawa",
+                "grootste museum": "Royal Ontario Museum"
+            },
+            "Costa Rica": {
+                "oppervlakte": 51100,
+                "populatie": "5200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Cerro Chirripó (3820m)",
+                "hoofdstad": "San José",
+                "grootste museum": "Nationaal Museum van Costa Rica"
+            },
+            "Cuba": {
+                "oppervlakte": 109884,
+                "populatie": "11000000",
+                "politiek systeem": "eenpartijstaat (socialistische republiek)",
+                "hoogste berg": "Pico Turquino (1974m)",
+                "hoofdstad": "Havana",
+                "grootste museum": "Museo Nacional de Bellas Artes"
+            },
+            "Dominica": {
+                "oppervlakte": 750,
+                "populatie": "73000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Morne Diablotins (1447m)",
+                "hoofdstad": "Roseau",
+                "grootste museum": "Dominica Museum"
+            },
+            "Dominicaanse Republiek": {
+                "oppervlakte": 48671,
+                "populatie": "11300000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Pico Duarte (3098m)",
+                "hoofdstad": "Santo Domingo",
+                "grootste museum": "Museo del Hombre Dominicano"
+            },
+            "El Salvador": {
+                "oppervlakte": 21041,
+                "populatie": "6300000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Cerro El Pital (2730m)",
+                "hoofdstad": "San Salvador",
+                "grootste museum": "Museo Nacional de Antropología"
+            },
+            "Grenada": {
+                "oppervlakte": 344,
+                "populatie": "125000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Saint Catherine (840m)",
+                "hoofdstad": "Saint George's",
+                "grootste museum": "Grenada National Museum"
+            },
+            "Guatemala": {
+                "oppervlakte": 108889,
+                "populatie": "18000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Tajumulco (4220m)",
+                "hoofdstad": "Guatemala-Stad",
+                "grootste museum": "Museo Nacional de Arqueología"
+            },
+            "Haïti": {
+                "oppervlakte": 27750,
+                "populatie": "11700000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Pic la Selle (2680m)",
+                "hoofdstad": "Port-au-Prince",
+                "grootste museum": "Musée du Panthéon National"
+            },
+            "Honduras": {
+                "oppervlakte": 112492,
+                "populatie": "10400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Cerro Las Minas (2870m)",
+                "hoofdstad": "Tegucigalpa",
+                "grootste museum": "Museo para la Identidad Nacional"
+            },
+            "Jamaica": {
+                "oppervlakte": 10991,
+                "populatie": "2800000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Blue Mountain Peak (2256m)",
+                "hoofdstad": "Kingston",
+                "grootste museum": "National Gallery of Jamaica"
+            },
+            "Mexico": {
+                "oppervlakte": 1964375,
+                "populatie": "128000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Pico de Orizaba (5636m)",
+                "hoofdstad": "Mexico-Stad",
+                "grootste museum": "Museo Nacional de Antropología"
+            },
+            "Nicaragua": {
+                "oppervlakte": 130373,
+                "populatie": "6900000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mogotón (2107m)",
+                "hoofdstad": "Managua",
+                "grootste museum": "Museo Nacional de Nicaragua"
+            },
+            "Panama": {
+                "oppervlakte": 75417,
+                "populatie": "4400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Volcán Barú (3475m)",
+                "hoofdstad": "Panama-Stad",
+                "grootste museum": "Museo del Canal Interoceánico"
+            },
+            "Saint Kitts en Nevis": {
+                "oppervlakte": 261,
+                "populatie": "48000",
+                "politiek systeem": "federale parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Liamuiga (1156m)",
+                "hoofdstad": "Basseterre",
+                "grootste museum": "National Museum of St. Kitts"
+            },
+            "Saint Lucia": {
+                "oppervlakte": 616,
+                "populatie": "180000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Gimie (950m)",
+                "hoofdstad": "Castries",
+                "grootste museum": "Saint Lucia National Museum"
+            },
+            "Saint Vincent en de Grenadines": {
+                "oppervlakte": 389,
+                "populatie": "104000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "La Soufrière (1234m)",
+                "hoofdstad": "Kingstown",
+                "grootste museum": "National Museum of St. Vincent"
+            },
+            "Trinidad en Tobago": {
+                "oppervlakte": 5130,
+                "populatie": "1500000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "El Cerro del Aripo (940m)",
+                "hoofdstad": "Port of Spain",
+                "grootste museum": "National Museum and Art Gallery"
+            },
+            "Verenigde Staten": {
+                "oppervlakte": 9833517,
+                "populatie": "335000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Denali (6190m)",
+                "hoofdstad": "Washington D.C.",
+                "grootste museum": "Smithsonian (National Museum of Natural History)"
+            }
+        },
+        "Zuid-Amerika": {
+            "Argentinië": {
+                "oppervlakte": 2780400,
+                "populatie": "46000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Aconcagua (6961m)",
+                "hoofdstad": "Buenos Aires",
+                "grootste museum": "MALBA"
+            },
+            "Bolivia": {
+                "oppervlakte": 1098581,
+                "populatie": "12200000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Sajama (6542m)",
+                "hoofdstad": "Sucre (grondwettelijk) / La Paz (regeringszetel)",
+                "grootste museum": "Museo Nacional de Arte"
+            },
+            "Brazilië": {
+                "oppervlakte": 8515767,
+                "populatie": "216000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Pico da Neblina (2995m)",
+                "hoofdstad": "Brasília",
+                "grootste museum": "Museu Nacional"
+            },
+            "Chili": {
+                "oppervlakte": 756102,
+                "populatie": "19500000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Ojos del Salado (6893m)",
+                "hoofdstad": "Santiago",
+                "grootste museum": "Museo Chileno de Arte Precolombino"
+            },
+            "Colombia": {
+                "oppervlakte": 1141748,
+                "populatie": "52000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Pico Cristóbal Colón (5700m)",
+                "hoofdstad": "Bogotá",
+                "grootste museum": "Museo del Oro"
+            },
+            "Ecuador": {
+                "oppervlakte": 283561,
+                "populatie": "18000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Chimborazo (6263m)",
+                "hoofdstad": "Quito",
+                "grootste museum": "Museo Nacional del Ecuador"
+            },
+            "Guyana": {
+                "oppervlakte": 214969,
+                "populatie": "810000",
+                "politiek systeem": "semi-presidentiële republiek",
+                "hoogste berg": "Mount Roraima (2810m)",
+                "hoofdstad": "Georgetown",
+                "grootste museum": "Walter Roth Museum of Anthropology"
+            },
+            "Paraguay": {
+                "oppervlakte": 406752,
+                "populatie": "6900000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Cerro Peró (842m)",
+                "hoofdstad": "Asunción",
+                "grootste museum": "Museo Nacional de Bellas Artes"
+            },
+            "Peru": {
+                "oppervlakte": 1285216,
+                "populatie": "34000000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Huascarán (6768m)",
+                "hoofdstad": "Lima",
+                "grootste museum": "Museo Larco"
+            },
+            "Suriname": {
+                "oppervlakte": 163820,
+                "populatie": "620000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Julianatop (1286m)",
+                "hoofdstad": "Paramaribo",
+                "grootste museum": "Surinaams Museum"
+            },
+            "Uruguay": {
+                "oppervlakte": 176215,
+                "populatie": "3400000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Cerro Catedral (514m)",
+                "hoofdstad": "Montevideo",
+                "grootste museum": "Museo Nacional de Artes Visuales"
+            },
+            "Venezuela": {
+                "oppervlakte": 916445,
+                "populatie": "28000000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Pico Bolívar (4978m)",
+                "hoofdstad": "Caracas",
+                "grootste museum": "Galería de Arte Nacional"
+            }
+        },
+        "Oceanië": {
+            "Australië": {
+                "oppervlakte": 7692024,
+                "populatie": "26000000",
+                "politiek systeem": "federale parlementaire monarchie",
+                "hoogste berg": "Mount Kosciuszko (2228m)",
+                "hoofdstad": "Canberra",
+                "grootste museum": "Australian Museum"
+            },
+            "Fiji": {
+                "oppervlakte": 18274,
+                "populatie": "930000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Tomanivi (1324m)",
+                "hoofdstad": "Suva",
+                "grootste museum": "Fiji Museum"
+            },
+            "Kiribati": {
+                "oppervlakte": 811,
+                "populatie": "130000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "onbekend hoogste punt (~81m)",
+                "hoofdstad": "Tarawa",
+                "grootste museum": "Kiribati National Museum"
+            },
+            "Marshalleilanden": {
+                "oppervlakte": 181,
+                "populatie": "42000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "onbekend hoogste punt (~10m)",
+                "hoofdstad": "Majuro",
+                "grootste museum": "Alele Museum"
+            },
+            "Micronesië": {
+                "oppervlakte": 702,
+                "populatie": "100000",
+                "politiek systeem": "federale presidentiële republiek",
+                "hoogste berg": "Nanlaud (791m)",
+                "hoofdstad": "Palikir",
+                "grootste museum": "Nationaal Museum van Micronesië"
+            },
+            "Nauru": {
+                "oppervlakte": 21,
+                "populatie": "12000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Command Ridge (71m)",
+                "hoofdstad": "Yaren (de facto)",
+                "grootste museum": "Nauru Museum"
+            },
+            "Nieuw-Zeeland": {
+                "oppervlakte": 268838,
+                "populatie": "5200000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Aoraki/Mount Cook (3724m)",
+                "hoofdstad": "Wellington",
+                "grootste museum": "Te Papa Tongarewa"
+            },
+            "Palau": {
+                "oppervlakte": 459,
+                "populatie": "18000",
+                "politiek systeem": "presidentiële republiek",
+                "hoogste berg": "Mount Ngerchelchuus (242m)",
+                "hoofdstad": "Ngerulmud",
+                "grootste museum": "Belau National Museum"
+            },
+            "Papoea-Nieuw-Guinea": {
+                "oppervlakte": 462840,
+                "populatie": "10300000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Wilhelm (4509m)",
+                "hoofdstad": "Port Moresby",
+                "grootste museum": "PNG National Museum"
+            },
+            "Samoa": {
+                "oppervlakte": 2842,
+                "populatie": "220000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Mount Silisili (1858m)",
+                "hoofdstad": "Apia",
+                "grootste museum": "Samoa Cultural Village Museum"
+            },
+            "Salomonseilanden": {
+                "oppervlakte": 28896,
+                "populatie": "740000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "Mount Popomanaseu (2335m)",
+                "hoofdstad": "Honiara",
+                "grootste museum": "Solomon Islands National Museum"
+            },
+            "Tonga": {
+                "oppervlakte": 747,
+                "populatie": "105000",
+                "politiek systeem": "constitutionele monarchie",
+                "hoogste berg": "Kao (1046m)",
+                "hoofdstad": "Nukuʻalofa",
+                "grootste museum": "Tonga National Museum"
+            },
+            "Tuvalu": {
+                "oppervlakte": 26,
+                "populatie": "11000",
+                "politiek systeem": "parlementaire constitutionele monarchie",
+                "hoogste berg": "onbekend hoogste punt (~5m)",
+                "hoofdstad": "Funafuti",
+                "grootste museum": "Tuvalu Philatelic Bureau/Museum"
+            },
+            "Vanuatu": {
+                "oppervlakte": 12189,
+                "populatie": "330000",
+                "politiek systeem": "parlementaire republiek",
+                "hoogste berg": "Tabwemasana (1879m)",
+                "hoofdstad": "Port Vila",
+                "grootste museum": "Vanuatu Cultural Centre"
+            }
+        }
+    }
+}
